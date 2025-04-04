@@ -1,0 +1,7 @@
+torch==2.4.0
+git+https://github.com/huggingface/transformers@f742a644ca32e65758c3adb36225aef1731bd2a8
+qwen-omni-utils[decord]
+accelerate==1.6.0
+soundfile==0.13.1
+safetensors==0.5.3
+https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.3/flash_attn-2.7.3+cu12torch2.4cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
